@@ -1,0 +1,14 @@
+C:\Users\D.RathanGiri\source\repos\c#-learning\bin\Debug\c#-learning.exe.config
+C:\Users\D.RathanGiri\source\repos\c#-learning\bin\Debug\c#-learning.exe
+C:\Users\D.RathanGiri\source\repos\c#-learning\bin\Debug\c#-learning.pdb
+C:\Users\D.RathanGiri\source\repos\c#-learning\obj\Debug\c#-learning.csproj.AssemblyReference.cache
+C:\Users\D.RathanGiri\source\repos\c#-learning\obj\Debug\c#-learning.csproj.CoreCompileInputs.cache
+C:\Users\D.RathanGiri\source\repos\c#-learning\obj\Debug\c#-learning.exe
+C:\Users\D.RathanGiri\source\repos\c#-learning\obj\Debug\c#-learning.pdb
+C:\Users\D.RathanGiri\Desktop\c#-learning\bin\Debug\c#-learning.exe.config
+C:\Users\D.RathanGiri\Desktop\c#-learning\bin\Debug\c#-learning.exe
+C:\Users\D.RathanGiri\Desktop\c#-learning\bin\Debug\c#-learning.pdb
+C:\Users\D.RathanGiri\Desktop\c#-learning\obj\Debug\c#-learning.csproj.AssemblyReference.cache
+C:\Users\D.RathanGiri\Desktop\c#-learning\obj\Debug\c#-learning.csproj.CoreCompileInputs.cache
+C:\Users\D.RathanGiri\Desktop\c#-learning\obj\Debug\c#-learning.exe
+C:\Users\D.RathanGiri\Desktop\c#-learning\obj\Debug\c#-learning.pdb
